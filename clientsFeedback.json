@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Dorian Gräe",
+    "image": "https://i.ibb.co/sv554gx/image.webp",
+    "country": "United States",
+    "comments": "Excellent work. They were very understanding and patient even though I was demanding and exact. They delivered immediately and was a pleasure to work with."
+  },
+  {
+    "id": 2,
+    "name": "Bruce B",
+    "image": "https://i.ibb.co/hV6tk33/11.webp",
+    "country": "Canada",
+    "comments": "SM Technology was very fast and thorough job. It was a big task that was done before the deadline."
+  },
+  {
+    "id": 3,
+    "name": "Shaun Sima",
+    "image": "https://i.ibb.co/MftCBDs/44.webp",
+    "country": "United States",
+    "comments": "Great contractor. Will certainly work with SM Technology again in the future."
+  },
+  {
+    "id": 4,
+    "name": "Julia Gadorno",
+    "image": "https://i.ibb.co/ZY8s6yk/33.webp",
+    "country": "United States",
+    "comments": "Great design, great comms, very responsive. Brilliant."
+  },
+  {
+    "id": 5,
+    "name": "Jason Cobb",
+    "image": "https://i.ibb.co/RD1QcRd/55.webp",
+    "country": "United States",
+    "comments": "SM Technology was very professional. Their work was accurate and timely. I am very impressed and look forward to our working relationship."
+  }
+]
